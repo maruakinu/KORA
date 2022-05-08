@@ -128,7 +128,7 @@
         android:id="@+id/fabbutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="550dp"
+        android:layout_marginTop="470dp"
         android:foregroundTint="@color/white"
         android:src="@drawable/ic_add"
         app:backgroundTint="#F1A503"
